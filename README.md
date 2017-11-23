@@ -1,2 +1,3 @@
 # LastXmasBot
-Das wird mein TwitterBot
+Das wird mein TwitterBot.
+Und ich bin sehr gespannt.
